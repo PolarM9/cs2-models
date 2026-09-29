@@ -300,6 +300,7 @@ characters/models/kolka/2025/jet/jet.vmdl|p|jet_aa0c582f.zip|20213535|597802034
 characters/models/kolka/2025/luffy/luffy.vmdl|p|luffy_8a225323.zip|12017855|597802093
 characters/models/kolka/2025/silver/silver.vmdl|p|silver_51443183.zip|3217697|597802259
 characters/models/kolka/2025/thorn/thorn.vmdl|p|thorn_b14bf9b7.zip|24035716|597802261
+characters/models/kolka/2026/aositala/aositala_ag2.vmdl|p|aositala_ag2_93d8ba39.zip|8216320|597919982
 characters/models/kolka/2026/barbara/barbara.vmdl|p|barbara_77fd2647.zip|9316090|597802258
 characters/models/kolka/2026/flurorite/flurorite.vmdl|p|flurorite_4cf9da0f.zip|37272094|597802260
 characters/models/kolka/2026/gunwest/gunwest.vmdl|p|gunwest_5bb53917.zip|19088770|597802262
@@ -405,6 +406,8 @@ characters/models/nozb1/vulpes_player_model/vulpes_player_model.vmdl|p|vulpes_pl
 characters/models/nozb1/vupsen_player_model/vupsen_player_model.vmdl|p|vupsen_player_model_93830e4f.zip|1081820|597804429
 characters/models/nozb1/wriothesley_player_model/wriothesley_player_model.vmdl|p|wriothesley_player_model_3015f685.zip|3860519|597804450
 characters/models/nozb1/zero_two_player_model/zero_two_player_model.vmdl|p|zero_two_player_model_a3d42f1e.zip|4557663|597804460
+characters/models/otakku/goku_ss2_v1/goku_ss2_v1.vmdl|p|goku_ss2_v1_bbed21f5.zip|6734990|597919985
+characters/models/otakku/goku_ss2_v2/goku_ss2_v2.vmdl|p|goku_ss2_v2_1004a789.zip|21857310|597919983
 characters/models/touchskins/hedron/hedron.vmdl|p|hedron_8a28dbfd.zip|2733658|597804464
 characters/models/ub/hakua/hakua.vmdl|p|hakua_4f440b58.zip|11216427|597804470
 characters/nozb1/vip_masks/bear_mask/bear_mask.vmdl|p|bear_mask_28871231.zip|601828|597804495
