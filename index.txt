@@ -2436,3 +2436,6 @@ weapons/models/ub/ninelive_kukri/ninelive_kukri_ag2.vmdl|x|-|0|
 models/custom_weapons/loba/loba.vmdl|w:knife_butterfly|loba_5a9f9868.zip|4347183|646560682
 models/custom_weapons/w_yamato_ssr/w_yamato_ssr.vmdl|w:knife_m9|w_yamato_ssr_01c92416.zip|4005513|646560803
 models/custom_weapons/w_zhuazi/w_zhuazi.vmdl|w:knife_cord|w_zhuazi_6829e3d0.zip|1139446|646560887
+models/custom_weapons/w_xkzd/w_xkzd.vmdl|w:knife_cord|w_xkzd_61e2e8ba.zip|1704522|647876355
+models/custom_weapons/w_katana_denglizi/w_katana_denglizi.vmdl|w:knife_karambit|w_katana_denglizi_e02cd0e5.zip|789274|647876525
+models/custom_weapons/w_jszddd/w_jszddd.vmdl|w:knife_cord|w_jszddd_54cfb568.zip|1367217|647876619
