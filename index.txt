@@ -755,7 +755,6 @@ models/custom_weapons/nokia3310/nokia3310.vmdl|w:knife_canis|nokia3310_59699678.
 models/custom_weapons/obj_hero/obj_hero.vmdl|w:negev|obj_hero_ec9343ec.zip|3019103|615220639
 models/custom_weapons/octane_butterfly_ag2/octane_butterfly_ag2.vmdl|w:knife_butterfly|octane_butterfly_ag2_43de0e47.zip|3691719|615220635
 models/custom_weapons/onetake_addons_weapon_ak4x/onetake_addons_weapon_ak4x.vmdl|w:ak47|onetake_addons_weapon_ak4x_0d03ec90.zip|2554494|615220662
-models/custom_weapons/oni2/oni2.vmdl|w:knife_butterfly|oni2_37ba3f32.zip|3775242|615220674
 models/custom_weapons/p90_kaltsit_ag2/p90_kaltsit_ag2.vmdl|w:p90|p90_kaltsit_ag2_e4950029.zip|15945060|615220697
 models/custom_weapons/p90_mika_ag2/p90_mika_ag2.vmdl|w:p90|p90_mika_ag2_eb289a24.zip|7031576|615220791
 models/custom_weapons/p90_rgb_ag2/p90_rgb_ag2.vmdl|w:p90|p90_rgb_ag2_e5c8a567.zip|2355751|615220790
