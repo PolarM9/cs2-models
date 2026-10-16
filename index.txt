@@ -2434,3 +2434,6 @@ models/custom/daffodillvmdl/daffodillvmdl.vmdl|x|-|0|
 models/custom_weapons/knife_thievesea_3/knife_thievesea_3.vmdl|x|-|0|
 models/custom_weapons/knife_thievesea_3/knife_thievesea_3.vmdl|x|-|0|
 weapons/models/ub/ninelive_kukri/ninelive_kukri_ag2.vmdl|x|-|0|
+models/custom_weapons/loba/loba.vmdl|w:knife_butterfly|loba_5a9f9868.zip|4347183|646560682
+models/custom_weapons/w_yamato_ssr/w_yamato_ssr.vmdl|w:knife_m9|w_yamato_ssr_01c92416.zip|4005513|646560803
+models/custom_weapons/w_zhuazi/w_zhuazi.vmdl|w:knife_cord|w_zhuazi_6829e3d0.zip|1139446|646560887
